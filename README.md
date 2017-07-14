@@ -1,2 +1,2 @@
-# imposter-syndrome-disclaimer
-Invitation to contribute by acknowledging our humanity
+# imposter syndrome disclaimer
+An invitation to contribute by acknowledging our humanity
