@@ -1,5 +1,5 @@
 # imposter syndrome disclaimer
-An invitation to contribute by acknowledging our humanity
+A warmn invitation to contribute, to be adapted and included in your project's README
 
 ### How to contribute
 
