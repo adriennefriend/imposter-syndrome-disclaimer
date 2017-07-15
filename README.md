@@ -23,8 +23,8 @@ I came up with the idea of an imposter syndrome disclaimer for project READMEs w
 
 ### Examples
 
-I'm thrilled that projects have adapted this language! Here are a few examples.
+I'm thrilled that projects have adopted this language! Here are a few [examples](https://github.com/adriennefriend/imposter-syndrome-disclaimer/blob/master/examples.md).
 
 ### Licensing
 
-TBD
+MIT. Take, adapt, use. A link back to this repo is appreciated.
