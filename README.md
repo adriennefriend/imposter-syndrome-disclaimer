@@ -27,4 +27,4 @@ I'm thrilled that projects have adopted this language! Here are a few [examples]
 
 ### Licensing
 
-MIT. Take, adapt, use. A link back to this repo is appreciated.
+MIT. Take, adapt, use. Link back to this repo. And if you want to give me a shout-out on [Twitter](https://twitter.com/adriennefriend) that feels awesome.
